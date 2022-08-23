@@ -7,7 +7,7 @@ function Navbar() {
     <>
       <nav className="navbar navbar-expand-lg navbar-light bg-white">
         <div className="container">
-         <h1 style="color-Blue">Create BY A.K.G.</h1></br></br>
+         <h1>Create BY A.K.G.</h1></br></br>
           <Link className="navbar-brand" to="/">
             Agarwal Shoping Mall 
           </Link>
