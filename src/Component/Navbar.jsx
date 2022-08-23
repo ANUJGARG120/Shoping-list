@@ -7,8 +7,9 @@ function Navbar() {
     <>
       <nav className="navbar navbar-expand-lg navbar-light bg-white">
         <div className="container">
+         <span>Onwer BY A>K>G</span>
           <Link className="navbar-brand" to="/">
-            Agarwal Shoping Mall
+            Agarwal Shoping Mall 
           </Link>
 
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
